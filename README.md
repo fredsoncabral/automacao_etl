@@ -33,6 +33,9 @@ Antes de executar o script, você precisará:
 📂 Estrutura de Pastas
 
 ├── data/               # Arquivos temporários e processados
+
 ├── main.py             # Script principal de automação
+
 ├── README.md           # Documentação do projeto
+
 └── pyproject.toml      # Dependências do projeto
